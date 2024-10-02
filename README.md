@@ -33,8 +33,8 @@ Ce projet constitue l'API backend pour **Akwary Group**, une société spéciali
 
 1. **Cloner le dépôt** :
     ```bash
-    git clone https://github.com/akwary-group/akwary-backend-api.git
-    cd akwary-backend-api
+    git clone https://github.com/akenewa/AkwaryGroupbackend.git
+    cd 
     ```
 
 2. **Configurer la base de données** :
