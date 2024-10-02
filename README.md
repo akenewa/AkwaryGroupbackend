@@ -85,4 +85,4 @@ Ce projet constitue l'API backend pour **Akwary Group**, une société spéciali
 
 ## Auteurs
 
-- **Équipe de développement Akwary Group** : Développement de l'API backend.
+- **Akenewa** : Développement de l'API backend.
